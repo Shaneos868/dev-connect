@@ -1,3 +1,3 @@
-modules.exports = {
-  mongoURI: 'mongodb://Shane:sgh05041983@ds243798.mlab.com:43798/devconnect'
+module.exports = {
+  mongoURI: 'mongodb://shane:sgh05041983@ds013206.mlab.com:13206/devconnect'
 };
